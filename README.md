@@ -29,4 +29,4 @@ Features:
 
 Target variable:
 
-> Future Connection - Target label for training. 
+> Future Connection - Binary target label for training. 
