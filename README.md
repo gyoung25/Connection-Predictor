@@ -29,4 +29,4 @@ Features:
 
 Target variable:
 
-> Future Connection - Binary target label for training. 
+> Future Connection - Binary (yes/no) label or probability of future connection between two nodes. 
