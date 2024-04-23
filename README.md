@@ -1,7 +1,6 @@
 # Connection-Predictor
 To demonstrate proficiency with network analysis using NetworkX
 
-This code is based on an assignment from the University of Michigan's Coursera course titled Applied Machine Learning in Python. I have expanded on the assignment by ROC curves, performance assessments, new graph metrics for prediction, and some helper functions to better understand the netwoork structure.
 
 **Skills demonstrated:** classification, scikit-learn, NetworkX, model evaluation, general coding
 
